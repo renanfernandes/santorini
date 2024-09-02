@@ -1,0 +1,37 @@
+# Main Title
+main:
+  header:
+    title : "Viva Santorini" # Title Text
+    description : "Seu novo lar, onde luxo e exclusividade se encontram. Entre e explore um estilo de vida incomparável." # Title Desc
+    button:
+      text: "Saiba Mais" # Button Text
+      url: "#about" # Button URL
+
+# Sobre
+about:
+  title: "Saiba Mais"
+  desc: "Bem-vindo ao Viva Santorini F18, um projeto de altíssimo padrão localizado no exclusivo Santorini Residencial Club, em Paulínia, SP. Descubra um novo conceito de viver bem, com todo o conforto, segurança e qualidade de vida que você e sua família merecem"
+  button:
+    enable: true
+    text: "Button"
+    url: "#"
+  image: "assets/img/santorini_retangular.png"
+
+projects:
+  card1:
+    title: "Projeto"
+    text: "O Viva Santorini é um projeto arquitetônico de altíssimo padrão, com mais de 170 m² de área construída, que combina modernidade e sofisticação em cada detalhe. Com um design contemporâneo, a casa oferece três suítes espaçosas, incluindo uma suíte master com um amplo closet, garantindo conforto e privacidade. A ampla sala de estar e jantar integra-se perfeitamente à cozinha estilo americano, equipada com itens de luxo e de fácil acesso à área de lazer. A casa também conta com quatro banheiros bem distribuídos para maximizar o conforto e um home office. A área externa possui uma piscina de 12,5 m² e uma churrasqueira com cozinha externa, ideal para receber convidados. Com uma garagem para dois veículos, um jardim interno, e uma área para pets, o projeto oferece uma experiência única de morar bem, com o que há de mais moderno e sofisticado."
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Área de Lazer Completa"
+    text: "Aproveite momentos inesquecíveis na área de lazer exclusiva do Viva Santorini, projetada para ser o coração de encontros e celebrações. O espaço conta com uma elegante churrasqueira e uma cozinha externa totalmente equipada, perfeitas para receber amigos e familiares em um ambiente descontraído e sofisticado. Cada detalhe foi pensado para oferecer uma experiência única de entretenimento ao ar livre, com total conforto e funcionalidade. Desfrute de um ambiente moderno e acolhedor, ideal para criar memórias ao lado de quem você ama."
+    img: "assets/img/img5.png"
+  card3:
+    title: "Piscina e Entretenimento ao Ar Livre"
+    text: "Relaxe e desfrute de momentos de tranquilidade em uma piscina de 12,5 m² que complementa a área de lazer do Viva Santorini. Cercada por um design paisagístico elegante, a piscina oferece um ambiente perfeito para se refrescar nos dias quentes e aproveitar o sol em total privacidade. Este espaço é ideal tanto para momentos de lazer com a família quanto para receber convidados em um cenário encantador. Viva o melhor do entretenimento ao ar livre, com toda a exclusividade e o charme que você merece."
+    img: "assets/img/img4.png"
+  card4:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/demo-image-02.jpg"
+

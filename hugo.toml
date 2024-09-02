@@ -1,0 +1,55 @@
+baseURL = 'http://example.org/'
+languageCode = 'pt-br'
+theme = 'graysx'
+title = 'Santorini F18 - Paulinia, SPs'
+
+## Site Settings
+[params]
+logo = "assets/img/logo.webp"
+favicon = "assets/favicon.png"
+
+# Info
+address = "Condominio Santorini, Paulinia, SP, Brasil"
+email = "contato@santorinif18.com.br"
+phone = "123456"
+
+# Socials
+
+twitter = "#"
+facebook = "#"
+github = "https://github.com/akatiggerx04/graysx-hugo"
+
+# Other
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+sbtoken = "TOKEN_HERE"
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "Sobre"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Projeto"
+  URL = "#projects"
+  weight = 2
+
+  [[menu.main]]
+  name = "Progresso"
+  URL = "#progresso"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#signup"
+  weight = 4
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04
