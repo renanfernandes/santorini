@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.santorini-f18.com.br/'
 languageCode = 'pt-br'
 theme = 'graysx'
 title = 'Santorini F18 - Paulinia, SPs'
@@ -47,9 +47,3 @@ sbtoken = "TOKEN_HERE"
   name = "Contact"
   URL = "#signup"
   weight = 4
-
-
-# Credits
-
-# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
-# This theme is forked by: https://github.com/akatiggerx04
